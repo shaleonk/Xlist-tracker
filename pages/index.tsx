@@ -2,7 +2,7 @@ import Hero from '../components/Hero';
 import Navbar from '../components/navbar';
 import Features from '../components/Features';
 import Testimoinals from '../components/Testimoinals';
-import Pricing from '../components/pricing';
+import Pricing from '../components/Pricing';
 import Footer from '../components/Footer';
 import Newsletter from '../components/Newsletter';
 import Butt from '../components/Button';
@@ -17,7 +17,6 @@ export default function Home() {
       <Pricing />
       <Newsletter />
       <Footer />
-
 
     </div>
   );
